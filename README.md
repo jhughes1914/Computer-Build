@@ -1,4 +1,4 @@
-# Computer Build
+# Hardware and Software Installation
 
 ## Objective
 
